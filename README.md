@@ -2,6 +2,11 @@
 
 Generate unique passwords for any site!
 
+## Tech
+
+- PHP 8.2
+- Laravel 10
+
 ## Testing
 
 ```BASH
