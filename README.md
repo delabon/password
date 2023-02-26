@@ -1,6 +1,6 @@
 ## About Password
 
-Generate unique passwords for any site!
+Generates unique passwords for any site!
 
 ## Tech
 
